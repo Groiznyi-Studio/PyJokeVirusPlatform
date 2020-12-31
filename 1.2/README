@@ -1,0 +1,20 @@
+PyJokeVirusPlatform - Python library that helps you create joke viruses and more
+
+New in version 1.2
+
+Functions:
+
+1)GetDate(section):
+
+    Description: 
+    Function that receives the date
+
+    What returns:
+    1)If section is str, it returns what you specified.
+    2)If section is a list, it returns what you specified only as a list
+    3)If you specified an invalid section argument, it returns a SectionError
+
+    Example usage:
+    1)GetDate("year") - returns 2020
+    2)GetDate("day") - returns 31
+    3)GetDate(["year","month","day"]) - returns [2020, 12, 31]"""
