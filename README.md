@@ -1,5 +1,5 @@
 # PyJokeVirusPlatform
-PyJokeVirusPlatform - Python library that helps you create joke viruses and more
+PyJokeVirusPlatform - Python library that helps you create joke viruses and more(Python >= 3.3 )
 
 # Only this page is official!!!
 
