@@ -1,0 +1,5 @@
+PyJokeVirusPlatform - Python library that helps you create joke viruses and more
+
+New in version 1.3
+
+Fix bugs that did not send 4 and 8 bytes to the kernel!!!
